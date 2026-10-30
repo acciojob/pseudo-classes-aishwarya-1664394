@@ -5,14 +5,14 @@
 .body{
 	background-color: var(--color);
 }
-.cont:first-child{
+p:first-child{
 	color:white;
 	background-color: black;
 }
-.cont:nth-child(2){
+p:nth-child(2){
 	color:black;
 }
-.cont:last-child{
+p:last-child{
 	color:red;
 }
 li {
